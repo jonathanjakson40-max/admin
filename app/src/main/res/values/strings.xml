@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiply Master</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_grid">Pythagoras</string>
+    <string name="nav_visual">Visual</string>
+    <string name="nav_stats">Mastery</string>
+</resources>

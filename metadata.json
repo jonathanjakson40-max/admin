@@ -1,0 +1,6 @@
+{
+  "name": "Multiply Master",
+  "description": "Master multiplication tables 1-12 with interactive grids, visual array dot models, speed challenge quizzes, and mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
